@@ -1,4 +1,5 @@
 window.onload = () => {
+    option=()=>{
     //array with the words
     var first = 'A ';
     var adj = ['two headed ', 'nuclear ', 'angry ', 'lonely ', 'crazy ', 'glowing ', 'smelly ', 'slow ', 'old '];
@@ -16,4 +17,5 @@ window.onload = () => {
 
     //creating a sentence (the excuse)
     document.querySelector('#theexcuse').innerHTML = first + adj[rdm1] + noun[rdm2] + action[rdm3] + possetion[rdm4] + where[rdm5];
-}
+    };
+};
