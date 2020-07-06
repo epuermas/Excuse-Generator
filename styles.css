@@ -24,6 +24,7 @@ button {
 	padding: 20px 30px;
   background-color: red;
   font-size: 15px;
+  cursor: pointer;
 }
 
 button.gen {
