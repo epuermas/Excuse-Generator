@@ -19,10 +19,10 @@ button {
 	margin: 20px auto;
 	max-width: 180px;
 	text-decoration: none;
-	border-radius: 5px;
+	border-radius: 8px;
   border: 2px;
 	padding: 20px 30px;
-  background-color: grey;
+  background-color: red;
   font-size: 15px;
 }
 
