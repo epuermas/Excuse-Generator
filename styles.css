@@ -44,3 +44,6 @@ button.gen:hover {
     bottom: 0%;
     transform: translate(-50%, -50%);
 }
+#theexcuse {
+    font-size: 20px;
+}
