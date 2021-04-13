@@ -1,5 +1,5 @@
-body{
-}
+
+/* container styling */
 .wrap {
 	position: absolute;
 	top: 50%;
@@ -9,6 +9,7 @@ body{
 	width: 100%;
 }
 
+/* button styling */
 button {
 	-webkit-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
 	-moz-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
@@ -22,7 +23,7 @@ button {
 	border-radius: 8px;
   border: 2px;
 	padding: 20px 30px;
-  background-color: green;
+  background-color: red;
   font-size: 15px;
   cursor: pointer;
 }
